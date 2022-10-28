@@ -31,12 +31,11 @@ graph three is a pie chart that shows the percentage of message categories for m
 1. Run the following commands in the project's root directory to set up the database and model.
 
     - To run the ETL pipeline that cleans the data and stores in the DisasterResponse database:
-       python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
+       python3 data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
     - To run the ML pipeline that trains the classifier and saves the classifier in a pickle file:
-       python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+       python3 models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
 
-2. Run the following command in the app's directory to run your web app.
-    python run.py
+2. Run the following command in the app's directory to run your web app: python3 run.py
 
 3. Go to http://0.0.0.0:3001/ or http://127.0.0.1:3001/ 
 
