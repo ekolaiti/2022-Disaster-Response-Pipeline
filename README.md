@@ -7,6 +7,12 @@ graph one is a bar chart that shows the distribution of the messages per genre (
 graph two is a horizontal bar chart that displays a count of the messages per category
 graph three is a pie chart that shows the percentage of message categories for messages that are labeled related
 
+![graph one](https://user-images.githubusercontent.com/50168917/198672567-768c1096-1ade-4a46-924c-7dde9738857f.png)
+
+![graph two](https://user-images.githubusercontent.com/50168917/198672625-e21a4735-c900-4846-b2f1-d4311c632fc4.png)
+
+![graph three](https://user-images.githubusercontent.com/50168917/198672644-0286bb1d-43e5-476d-bf4f-47a190a70369.png)
+
 
 ### Files:
 * This repository includes besides this README.md the following files:
