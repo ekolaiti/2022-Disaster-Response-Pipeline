@@ -4,13 +4,12 @@ In this project, I analyse disaster data from Appen (formally Figure 8) to bui
 I create a machine learning pipeline that categorises the messages so that these can be sent to appropriate disaster relief agencies.
 The project includes a web app where a user can input a new message and get classification results in several categories. The web app also displays three visualisations of the training data: 
 graph one is a bar chart that shows the distribution of the messages per genre (direct, news, social)
-graph two is a horizontal bar chart that displays a count of the messages per category
-graph three is a pie chart that shows the percentage of message categories for messages that are labeled related
-
 ![graph one](https://user-images.githubusercontent.com/50168917/198672567-768c1096-1ade-4a46-924c-7dde9738857f.png)
 
+graph two is a horizontal bar chart that displays a count of the messages per category
 ![graph two](https://user-images.githubusercontent.com/50168917/198672625-e21a4735-c900-4846-b2f1-d4311c632fc4.png)
 
+graph three is a pie chart that shows the percentage of message categories for messages that are labeled related
 ![graph three](https://user-images.githubusercontent.com/50168917/198672644-0286bb1d-43e5-476d-bf4f-47a190a70369.png)
 
 
